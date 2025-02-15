@@ -1,0 +1,16 @@
+body {
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    padding: 15px;
+    width: 250px;
+}
+
+h2 {
+    color: #2c3e50;
+}
+
+#score {
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: bold;
+}
